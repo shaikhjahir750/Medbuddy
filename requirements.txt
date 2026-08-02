@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydantic
-tensorflow==2.15.0
+tensorflow
 torch
 torchvision
 Pillow
