@@ -1,13 +1,8 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-fastapi
-uvicorn[standard]
-pydantic
+streamlit
 tensorflow
 torch
 torchvision
 Pillow
 numpy
 joblib
-python-multipart
 scikit-learn
-httpx
