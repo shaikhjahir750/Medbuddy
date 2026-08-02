@@ -1,0 +1,30 @@
+                                 precision    recall  f1-score   support
+
+                           Acne       1.00      1.00      1.00        10
+                      Arthritis       1.00      1.00      1.00        10
+               Bronchial Asthma       0.77      1.00      0.87        10
+           Cervical spondylosis       1.00      1.00      1.00        10
+                    Chicken pox       0.75      0.60      0.67        10
+                    Common Cold       1.00      1.00      1.00        10
+                         Dengue       0.44      0.70      0.54        10
+          Dimorphic Hemorrhoids       1.00      1.00      1.00        10
+               Fungal infection       1.00      1.00      1.00        10
+                   Hypertension       1.00      0.90      0.95        10
+                       Impetigo       1.00      0.70      0.82        10
+                       Jaundice       1.00      1.00      1.00        10
+                        Malaria       1.00      1.00      1.00        10
+                       Migraine       1.00      1.00      1.00        10
+                      Pneumonia       1.00      1.00      1.00        10
+                      Psoriasis       0.83      1.00      0.91        10
+                        Typhoid       0.86      0.60      0.71        10
+                 Varicose Veins       0.83      1.00      0.91        10
+                        allergy       1.00      0.80      0.89        10
+                       diabetes       0.90      0.90      0.90        10
+                  drug reaction       0.50      0.50      0.50        10
+gastroesophageal reflux disease       0.71      1.00      0.83        10
+           peptic ulcer disease       0.71      0.50      0.59        10
+        urinary tract infection       1.00      0.70      0.82        10
+
+                       accuracy                           0.87       240
+                      macro avg       0.89      0.87      0.87       240
+                   weighted avg       0.89      0.87      0.87       240

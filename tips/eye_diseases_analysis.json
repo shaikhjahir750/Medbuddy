@@ -1,0 +1,91 @@
+[
+    {
+        "disease_name": "Cataract",
+        "severity_estimate": "Moderate to High (Progressive condition; can lead to severe vision impairment or blindness if untreated)",
+        "possible_causes": [
+            "Natural aging process (most common cause of protein aggregation in the lens)",
+            "Long-term exposure to ultraviolet (UV) sunlight without protection",
+            "Systemic health conditions such as Diabetes Mellitus",
+            "Prolonged use of corticosteroid medications",
+            "Ocular trauma or prior eye surgery",
+            "Smoking and heavy alcohol consumption",
+            "Congenital or hereditary factors"
+        ],
+        "common_symptoms": [
+            "Cloudy, blurry, foggy, or dim vision",
+            "Increased sensitivity to light and glare, especially while driving at night",
+            "Seeing halos around light sources",
+            "Faded or yellowed color perception",
+            "Frequent changes in eyeglass or contact lens prescriptions",
+            "Double vision in a single eye (monocular diplopia)"
+        ],
+        "treatment_suggestions": [
+            "Early stages: Prescription update, anti-glare lens coatings, magnifying lenses, and brighter lighting",
+            "Definitive treatment: Cataract surgery (phacoemulsification) to remove the cloudy lens and replace it with an artificial Intraocular Lens (IOL)",
+            "Note: Eye drops or medications cannot reverse or stop cataract progression"
+        ],
+        "prevention_tips": [
+            "Wear sunglasses with 100% UV protection (UVA/UVB) outdoors",
+            "Maintain strict control of blood sugar levels if diabetic",
+            "Quit smoking and limit alcohol intake",
+            "Eat a diet rich in antioxidants, vitamin C, and vitamin E (e.g., leafy greens)",
+            "Schedule regular comprehensive dilated eye exams"
+        ],
+        "when_to_see_a_doctor": "Consult an ophthalmologist if you experience progressive cloudy or blurry vision, increased glare at night, or frequent prescription changes. Seek urgent medical attention if you experience sudden vision loss, severe eye pain, or flashes of light."
+    },
+    {
+        "disease_name": "Normal (Healthy Eye)",
+        "severity_estimate": "None (Healthy Baseline)",
+        "possible_causes": [
+            "N/A - Normal anatomical and physiological ocular health without evidence of pathology"
+        ],
+        "common_symptoms": [
+            "Clear, sharp vision at distance and near (with or without corrective lenses)",
+            "Clear, transparent cornea and crystalline lens",
+            "Moist, comfortable eyes without pain, dryness, or excessive tearing",
+            "Normal tear film quality and healthy pink conjunctiva",
+            "Unrestricted visual field and normal intraocular pressure"
+        ],
+        "treatment_suggestions": [
+            "No medical or surgical treatment required",
+            "Maintain routine preventive eye care and eye safety practices"
+        ],
+        "prevention_tips": [
+            "Follow the 20-20-20 rule during screen use (look 20 feet away for 20 seconds every 20 minutes)",
+            "Wear protective safety glasses during sports, woodworking, or high-risk activities",
+            "Use UV-blocking sunglasses in bright sunlight",
+            "Practice proper contact lens hygiene (never sleep in lenses unless prescribed)",
+            "Eat a nutrient-dense diet supporting eye health (omega-3 fatty acids, lutein, zinc)"
+        ],
+        "when_to_see_a_doctor": "Schedule routine comprehensive eye exams every 1 to 2 years. See an eye doctor immediately if you notice sudden vision changes, eye injury, severe pain, persistent redness, or new floaters/flashes."
+    },
+    {
+        "disease_name": "Pterygium (Surfer's Eye)",
+        "severity_estimate": "Mild to Moderate (Benign growth; can cause astigmatism or obscure vision if it invades the central cornea)",
+        "possible_causes": [
+            "Chronic, unprotected exposure to high levels of ultraviolet (UV) radiation",
+            "Prolonged exposure to dry, dusty, windy, or sandy outdoor environments",
+            "Chronic eye irritation from environmental pollutants",
+            "Occupational factors (e.g., outdoor workers, farmers, surfers)"
+        ],
+        "common_symptoms": [
+            "Fleshy, pinkish, triangular growth on the conjunctiva extending onto the cornea",
+            "Localized eye redness, swelling, and chronic inflammation",
+            "Gritty, burning, or foreign-body sensation in the eye",
+            "Dryness and tearing due to disruption of the tear film",
+            "Blurred vision or astigmatism if the lesion grows large enough to distort corneal curvature"
+        ],
+        "treatment_suggestions": [
+            "Mild cases: Lubricating artificial tears and gel drops to soothe irritation",
+            "Short-term topical anti-inflammatory drops (e.g., mild steroids) for acute flare-ups under medical supervision",
+            "Surgical intervention: Surgical excision with conjunctival autografting or amniotic membrane graft if vision is affected or severe discomfort persists"
+        ],
+        "prevention_tips": [
+            "Wear wrap-around sunglasses with 100% UV protection to shield eyes from sun, wind, and dust",
+            "Wear wide-brimmed hats when spending extended periods outdoors",
+            "Use lubricating eye drops in dry, dusty, or arid environments to prevent chronic irritation",
+            "Avoid rubbing eyes when exposed to dust or sand"
+        ],
+        "when_to_see_a_doctor": "Schedule an eye evaluation if you notice a growing tissue mass on the surface of your eye, persistent redness/irritation, or if the growth alters your vision or visual field."
+    }
+]

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medbuddy - AI Symptom Checker</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="glass-background">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <nav class="glass-nav">
+        <div class="logo">
+            <div class="logo-icon-wrapper">
+                <i class="fa-solid fa-notes-medical"></i>
+            </div>
+            <span class="logo-text">Medbuddy<span class="logo-dot">.ai</span></span>
+        </div>
+        <div class="nav-links">
+            <a href="index.html"><i class="fa-solid fa-house"></i> Home</a>
+            <a href="image_analysis.html"><i class="fa-solid fa-microscope"></i> Image Analysis</a>
+            <a href="symptom_detection.html" class="active"><i class="fa-solid fa-user-nurse"></i> Symptom Checker</a>
+        </div>
+    </nav>
+
+    <main class="analysis-container fade-in-up">
+        <div class="analysis-card glass-card">
+            <div class="card-header">
+                <h2><i class="fa-solid fa-comment-medical icon-title"></i> Natural Language Symptom Triage</h2>
+                <p>Describe your health concerns in plain language to receive algorithmic risk evaluation and care guidance.</p>
+            </div>
+
+            <form id="nlp-form">
+                <div class="form-group">
+                    <label for="symptoms-input" class="form-label">Describe Your Symptoms:</label>
+                    <textarea id="symptoms-input" rows="4" placeholder="e.g. High fever, severe headache, muscle pain, joint stiffness, and nausea..." required></textarea>
+                    
+                    <div class="textarea-meta">
+                        <span class="preset-label"><i class="fa-solid fa-bolt"></i> Quick Preset Samples:</span>
+                        <span id="char-counter" class="char-counter">0 chars</span>
+                    </div>
+
+                    <!-- Preset Chips -->
+                    <div class="symptom-chips-container">
+                        <button type="button" class="symptom-chip" data-symptom="high fever, severe headache, muscle pain, joint pain, nausea">
+                            <i class="fa-solid fa-temperature-arrow-up"></i> Fever & Body Pain
+                        </button>
+                        <button type="button" class="symptom-chip" data-symptom="persistent cough, chest discomfort, shortness of breath, fever">
+                            <i class="fa-solid fa-lungs"></i> Cough & Chest Discomfort
+                        </button>
+                        <button type="button" class="symptom-chip" data-symptom="itching skin rash, redness, swelling, small red bumps">
+                            <i class="fa-solid fa-hand-dots"></i> Skin Rash & Itch
+                        </button>
+                        <button type="button" class="symptom-chip" data-symptom="severe stomach cramps, nausea, vomiting, loss of appetite, diarrhea">
+                            <i class="fa-solid fa-disease"></i> Stomach Cramps & Nausea
+                        </button>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-glow w-100" id="analyze-nlp-btn">
+                    <span class="btn-text"><i class="fa-solid fa-brain"></i> Analyze Symptoms</span>
+                    <div class="spinner hidden"></div>
+                </button>
+            </form>
+
+            <div id="nlp-result-container" class="result-card glass-card hidden fade-in-up">
+                <div class="result-header">
+                    <h3><i class="fa-solid fa-clipboard-user"></i> Symptom Triage Assessment</h3>
+                    <button type="button" id="copy-nlp-report-btn" class="btn btn-sm btn-secondary" title="Copy Assessment to Clipboard">
+                        <i class="fa-solid fa-copy"></i> Copy Assessment
+                    </button>
+                </div>
+
+                <div class="result-details">
+                    <div class="result-item">
+                        <span class="label">Probable Triage Condition:</span>
+                        <span id="nlp-prediction-text" class="value prediction-highlight"></span>
+                    </div>
+                    <div class="result-item">
+                        <div class="confidence-header">
+                            <span class="label">Model Confidence Score:</span>
+                            <span id="nlp-confidence-text" class="value confidence-number">0%</span>
+                        </div>
+                        <div class="confidence-bar-container">
+                            <div id="nlp-confidence-bar" class="confidence-bar"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="nlp-tips-container" class="tips-container hidden"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="app-footer">
+        <div class="footer-content">
+            <p><i class="fa-solid fa-shield-halved"></i> <strong>Medical Disclaimer:</strong> Medbuddy AI provides preliminary algorithmic screening insights for educational & triaging assistance. It does not constitute formal medical advice or diagnosis. Always consult a licensed healthcare professional.</p>
+            <p class="copyright">&copy; 2026 Medbuddy AI Assistant. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

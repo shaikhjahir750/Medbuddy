@@ -1,0 +1,178 @@
+[
+    {
+        "disease_name": "Dental Calculus (Tartar)",
+        "severity_estimate": "Moderate (Can lead to gingivitis and periodontitis if untreated)",
+        "possible_causes": [
+            "Mineralization of unremoved dental plaque by calcium and phosphate in saliva",
+            "Inadequate oral hygiene practices (infrequent brushing or flossing)",
+            "High-sugar or high-carbohydrate diet",
+            "Chronic dry mouth (xerostomia)",
+            "Tobacco use and smoking"
+        ],
+        "common_symptoms": [
+            "Hardened, calcified yellow, brown, or black deposits near the gumline",
+            "Persistent bad breath (halitosis)",
+            "Red, swollen, or tender gums (gingivitis)",
+            "Bleeding gums during brushing or flossing"
+        ],
+        "treatment_suggestions": [
+            "Professional dental scaling and root planing performed by a dentist or dental hygienist",
+            "Ultrasonic scaling to shatter hard deposits",
+            "Professional tooth polishing to smooth enamel surfaces",
+            "Note: Hardened calculus cannot be removed by standard home brushing or flossing"
+        ],
+        "prevention_tips": [
+            "Brush teeth thoroughly twice daily for two minutes using fluoride toothpaste",
+            "Floss daily or use interdental brushes to remove plaque between teeth",
+            "Use a tartar-control toothpaste and alcohol-free antiseptic mouthwash",
+            "Schedule professional dental check-ups and cleanings every 6 months",
+            "Limit sugary snacks and beverage intake"
+        ],
+        "when_to_see_a_doctor": "Schedule a dental visit if you notice visible hardened yellow/brown crust near the gums, persistent gum bleeding, gum recession, or chronic bad breath."
+    },
+    {
+        "disease_name": "Hypodontia (Developmental Absence of Teeth)",
+        "severity_estimate": "Moderate (Impacts mastication, speech, alignment, and facial aesthetics)",
+        "possible_causes": [
+            "Genetic factors (mutations in genes such as MSX1, PAX9, or AXIN2)",
+            "Ectodermal dysplasia or other hereditary syndromes",
+            "Environmental disturbances during tooth organogenesis (e.g., maternal illness, radiation, severe pediatric infection)"
+        ],
+        "common_symptoms": [
+            "Congenital absence of 1 to 5 primary or permanent teeth (excluding third molars)",
+            "Abnormal gaps or wide spacing between existing teeth",
+            "Delayed eruption of adjacent permanent teeth",
+            "Difficulty in proper chewing or articulation of certain sounds",
+            "Over-retained primary (baby) teeth past normal shedding age"
+        ],
+        "treatment_suggestions": [
+            "Orthodontic therapy (braces or clear aligners) to align existing teeth or manage spacing",
+            "Dental implants (once facial growth is complete)",
+            "Fixed dental bridges or removable partial dentures",
+            "Pediatric dentistry monitoring and multidisciplinary care planning"
+        ],
+        "prevention_tips": [
+            "Hypodontia is a developmental/genetic condition; primary prevention is not possible",
+            "Early pediatric dental evaluation (by age 1 or upon tooth eruption) allows early space management",
+            "Genetic counseling for families with a history of missing teeth or ectodermal dysplasia"
+        ],
+        "when_to_see_a_doctor": "Consult a pediatric dentist or orthodontist if a child's primary teeth do not shed on schedule, if permanent teeth fail to erupt, or if noticeable gaps develop."
+    },
+    {
+        "disease_name": "Mouth Ulcer (Aphthous Stomatitis / Canker Sore)",
+        "severity_estimate": "Mild to Moderate (Self-limiting, usually resolves in 7\u201314 days)",
+        "possible_causes": [
+            "Minor mechanical mouth trauma (accidental cheek biting, hard food, sharp dental work or braces)",
+            "Nutritional deficiencies (Vitamin B12, iron, folate, or zinc)",
+            "Emotional stress and systemic fatigue",
+            "Sensitivities to acidic, spicy, or citrus foods",
+            "Toothpastes containing Sodium Lauryl Sulfate (SLS)",
+            "Immune system reactivity or gastrointestinal conditions (e.g., Celiac, Crohn's disease)"
+        ],
+        "common_symptoms": [
+            "Small, round or oval lesions with a yellow/white center and inflamed red border",
+            "Pain or burning sensation localized inside the cheeks, lips, tongue, or soft palate",
+            "Localized swelling and heightened sensitivity while eating, drinking, or talking"
+        ],
+        "treatment_suggestions": [
+            "Topical OTC pain-relieving gels or pastes (e.g., containing benzocaine or triamcinolone)",
+            "Antimicrobial or steroid mouth rinses prescribed by a healthcare provider",
+            "Warm salt-water rinses to soothe inflamed tissues",
+            "Over-the-counter oral pain relievers (ibuprofen or acetaminophen) for discomfort"
+        ],
+        "prevention_tips": [
+            "Avoid trigger foods (excessively acidic, salty, or spicy items)",
+            "Switch to a soft-bristled toothbrush and use SLS-free toothpaste",
+            "Maintain a balanced diet rich in vitamins B12, iron, and zinc",
+            "Manage daily stress through relaxation techniques"
+        ],
+        "when_to_see_a_doctor": "Seek medical evaluation if ulcers persist beyond 2 weeks, are unusually large, spread continuously, cause severe unmanageable pain, or are accompanied by high fever or difficulty swallowing."
+    },
+    {
+        "disease_name": "Normal (Healthy Oral Cavity)",
+        "severity_estimate": "None (Healthy Baseline)",
+        "possible_causes": [
+            "N/A - Standard healthy anatomical and physiological state without clinical pathology"
+        ],
+        "common_symptoms": [
+            "Clean, smooth enamel surfaces with no visible caries, calculus, or discoloration",
+            "Pink, firm, non-bleeding gum tissues fitting snuggly around teeth",
+            "Fresh breath and adequate, healthy salivary flow",
+            "Moist, smooth oral mucosa and tongue surface"
+        ],
+        "treatment_suggestions": [
+            "No restorative or curative treatment needed",
+            "Maintain existing preventive maintenance regimen"
+        ],
+        "prevention_tips": [
+            "Brush twice daily for 2 minutes with fluoride toothpaste",
+            "Floss or clean interdental spaces daily",
+            "Eat a nutrient-dense, low-sugar diet",
+            "Visit the dentist every 6\u201312 months for routine check-ups and prophylaxis"
+        ],
+        "when_to_see_a_doctor": "Continue regular preventive dental appointments every 6 to 12 months, or seek immediate attention if new symptoms (pain, bleeding, spots, or sensitivity) arise."
+    },
+    {
+        "disease_name": "Dental Caries (Tooth Decay / Cavities)",
+        "severity_estimate": "Moderate to High (Progressive condition; can lead to pulp infection, abscess, or tooth loss)",
+        "possible_causes": [
+            "Acid-producing bacterial biofilm (e.g., Streptococcus mutans) fermenting dietary carbohydrates",
+            "Frequent consumption of sugary, acidic, or sticky foods and beverages",
+            "Inadequate toothbrushing and lack of flossing",
+            "Insufficient exposure to topical fluoride",
+            "Dry mouth (reduced salivary flow and buffering capacity)"
+        ],
+        "common_symptoms": [
+            "Toothache, spontaneous pain, or localized throbbing",
+            "Tooth sensitivity to cold, hot, or sweet foods and drinks",
+            "Visible pits, dark spots, or holes in teeth",
+            "Pain when biting down or chewing",
+            "Brown, black, or chalky white staining on tooth surfaces"
+        ],
+        "treatment_suggestions": [
+            "Topical fluoride varnish/remineralization therapy (for early non-cavitated lesions)",
+            "Dental fillings (composite resin or dental amalgam) for cavity restoration",
+            "Dental crowns for extensive tooth structure loss",
+            "Root canal therapy if decay reaches the pulp/nerve tissue",
+            "Extraction if the tooth structure is unsalvageable"
+        ],
+        "prevention_tips": [
+            "Brush teeth twice daily with fluoridated toothpaste",
+            "Floss daily to remove plaque from proximal surfaces",
+            "Apply dental sealants on occlusal surfaces of molars (especially in children)",
+            "Limit frequency of sugar and refined starch consumption",
+            "Chew sugar-free xylitol gum to stimulate protective saliva production"
+        ],
+        "when_to_see_a_doctor": "Consult a dentist immediately if you experience tooth pain, sensitivity lasting past stimulus removal, visible dark spots or holes, or localized swelling around a tooth."
+    },
+    {
+        "disease_name": "Tooth Discoloration (Extrinsic / Intrinsic Staining)",
+        "severity_estimate": "Mild (Primarily cosmetic; can occasionally signal pulp necrosis or enamel erosion)",
+        "possible_causes": [
+            "Extrinsic: Frequent consumption of dark foods/beverages (coffee, tea, red wine, cola, berries) and tobacco use",
+            "Extrinsic: Suboptimal plaque control and surface stain accumulation",
+            "Intrinsic: Fluorosis from excess fluoride ingestion during tooth development",
+            "Intrinsic: Childhood exposure to tetracycline antibiotics",
+            "Intrinsic: Dental trauma leading to pulp necrosis or internal hemorrhage",
+            "Age-related thinning of enamel exposing darker underlying dentin"
+        ],
+        "common_symptoms": [
+            "Yellow, brown, grey, or opaque white patches/stains on tooth surfaces",
+            "Loss of natural enamel translucency and shine",
+            "Uneven shade variations across single or multiple teeth"
+        ],
+        "treatment_suggestions": [
+            "Professional dental cleaning and stain polishing (extrinsic)",
+            "Professional in-office or custom take-home whitening/bleaching kits",
+            "Enamel microabrasion for superficial intrinsic spots",
+            "Composite bonding, porcelain veneers, or dental crowns for deep intrinsic staining or dead teeth"
+        ],
+        "prevention_tips": [
+            "Rinse mouth with water or brush after drinking dark beverages like coffee, tea, or red wine",
+            "Avoid smoking and chewing tobacco products",
+            "Maintain consistent daily oral hygiene (brushing and flossing)",
+            "Monitor fluoride intake in young children to prevent fluorosis"
+        ],
+        "when_to_see_a_doctor": "See a dentist if a single tooth turns gray/black (possible nerve death), if discoloration is accompanied by pain/chipping, or to get safe, professional whitening guidance."
+    }
+]

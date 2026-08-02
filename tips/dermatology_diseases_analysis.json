@@ -1,0 +1,441 @@
+[
+    {
+        "disease_name": "Eczema (Atopic Dermatitis)",
+        "severity_estimate": "Mild to Moderate (Chronic inflammatory condition with episodic flare-ups)",
+        "possible_causes": [
+            "Genetic predisposition affecting skin barrier function (e.g., filaggrin gene mutations)",
+            "Immune system hyperreactivity",
+            "Environmental triggers (harsh soaps, detergents, allergens, cold/dry weather)",
+            "Emotional stress and anxiety",
+            "Hormonal fluctuations"
+        ],
+        "common_symptoms": [
+            "Intense itching (pruritus), often worsening at night",
+            "Dry, red to brownish-gray patches on skin (commonly on hands, feet, inner elbows, and knees)",
+            "Small, raised bumps that may leak fluid and crust over when scratched",
+            "Thickened, cracked, or scaly skin (lichenification)",
+            "Raw, sensitive skin from scratching"
+        ],
+        "treatment_suggestions": [
+            "Topical corticosteroids or calcineurin inhibitors to reduce inflammation",
+            "Regular application of thick emollients or barrier repair creams",
+            "Oral antihistamines to help manage severe night-time itching",
+            "Phototherapy (light therapy) for widespread or resistant cases"
+        ],
+        "prevention_tips": [
+            "Moisturize skin at least twice daily, especially immediately after bathing",
+            "Take short, warm (not hot) baths or showers",
+            "Use mild, fragrance-free cleansers and avoid harsh soaps",
+            "Identify and avoid personal trigger factors (e.g., wool, synthetic fabrics, specific detergents)",
+            "Keep fingernails trimmed to minimize skin damage from scratching"
+        ],
+        "when_to_see_a_doctor": "See a dermatologist if eczema pain interferes with sleep or daily activities, if skin becomes painful, hot, or oozes pus (signs of bacterial infection), or if home remedies fail to control flare-ups."
+    },
+    {
+        "disease_name": "Herpes (Herpes Simplex Virus - HSV-1 / HSV-2)",
+        "severity_estimate": "Mild to Moderate (Contagious viral infection causing recurring painful lesions)",
+        "possible_causes": [
+            "Infection with Herpes Simplex Virus Type 1 (oral/facial) or Type 2 (genital)",
+            "Direct contact with infected lesions, saliva, or bodily fluids",
+            "Reactivation triggers: fever, illness, stress, UV exposure, or hormonal changes"
+        ],
+        "common_symptoms": [
+            "Painful, fluid-filled blisters or open sores around the lips/mouth (oral) or genital area",
+            "Tingling, itching, or burning sensation prior to blister eruption (prodrome)",
+            "Blisters that break open, ooze, and form a crust",
+            "Flu-like symptoms during primary outbreak (fever, swollen lymph nodes, body aches)"
+        ],
+        "treatment_suggestions": [
+            "Prescription oral antiviral medications (e.g., acyclovir, valacyclovir, famciclovir) to shorten duration and frequency",
+            "Topical antiviral creams or protective ointments",
+            "Over-the-counter pain relievers (ibuprofen, acetaminophen) to manage discomfort",
+            "Cool compresses applied to external sores"
+        ],
+        "prevention_tips": [
+            "Avoid direct physical contact (kissing, sexual activity) during active outbreaks or prodromal symptoms",
+            "Avoid sharing personal items like towels, lip balm, or utensils during flare-ups",
+            "Use barrier protection (condoms/dental dams) during intimate contact",
+            "Apply sunscreen to lips if sunlight triggers oral outbreaks"
+        ],
+        "when_to_see_a_doctor": "Consult a physician if you experience your first outbreak, if lesions spread near the eyes, if you have a weakened immune system, or if outbreaks occur unusually frequently."
+    },
+    {
+        "disease_name": "Impetigo",
+        "severity_estimate": "Moderate (Highly contagious superficial bacterial skin infection)",
+        "possible_causes": [
+            "Infection by Staphylococcus aureus or Streptococcus pyogenes bacteria",
+            "Bacterial invasion through minor skin breaks, cuts, insect bites, or eczema patches",
+            "Spread through direct contact or contaminated towels, bedding, and toys"
+        ],
+        "common_symptoms": [
+            "Red sores that quickly rupture, ooze for a few days, and form honey-colored crusts",
+            "Fluid-filled blisters (bullous impetigo) that break open easily",
+            "Itching and mild soreness around the affected area (commonly mouth and nose)",
+            "Swollen lymph nodes near the infected area"
+        ],
+        "treatment_suggestions": [
+            "Topical prescription antibiotic ointments (e.g., mupirocin) for localized infection",
+            "Oral antibiotics prescribed by a healthcare professional for widespread lesions",
+            "Gentle washing of crusts with warm water and antibacterial soap before ointment application"
+        ],
+        "prevention_tips": [
+            "Practice rigorous handwashing with soap and water",
+            "Keep cuts, scrapes, and insect bites clean and covered",
+            "Avoid sharing clothes, towels, bed linens, or razors with an infected person",
+            "Wash an infected person's clothes and linens separately in hot water"
+        ],
+        "when_to_see_a_doctor": "See a doctor promptly for proper antibiotic prescription, or immediately if sores become increasingly painful, red, swollen, or if fever develops."
+    },
+    {
+        "disease_name": "Psoriasis",
+        "severity_estimate": "Moderate to High (Chronic autoimmune disorder causing accelerated skin cell buildup)",
+        "possible_causes": [
+            "Autoimmune systemic disease where T-cells attack healthy skin tissue",
+            "Genetic factors and family history",
+            "Triggers: skin injury, stress, streptococcal infections, cold weather, smoking, or certain medications"
+        ],
+        "common_symptoms": [
+            "Thick red patches of skin covered with silvery, metallic scales (plaque psoriasis)",
+            "Dry, cracked skin that may bleed or itch intensely",
+            "Burning, soreness, or stiffness in joints (psoriatic arthritis)",
+            "Pitted, thickened, or discolored nails"
+        ],
+        "treatment_suggestions": [
+            "Topical therapies: corticosteroids, synthetic vitamin D analogs, coal tar, or retinoids",
+            "Phototherapy (UV light exposure under medical supervision)",
+            "Systemic medications and biological therapies (biologics) for moderate to severe cases"
+        ],
+        "prevention_tips": [
+            "Keep skin well-moisturized with thick creams or ointments",
+            "Avoid known personal triggers such as excessive stress, alcohol, and smoking",
+            "Protect skin from trauma, cuts, or severe sunburns (Koebner phenomenon)",
+            "Maintain a healthy weight and balanced lifestyle"
+        ],
+        "when_to_see_a_doctor": "Consult a dermatologist if psoriasis covers significant body surface area, causes severe discomfort or joint pain, or fails to respond to topical over-the-counter care."
+    },
+    {
+        "disease_name": "Rashes (Nonspecific / Contact Dermatitis)",
+        "severity_estimate": "Mild to Moderate (Acute inflammatory skin response to irritants or allergens)",
+        "possible_causes": [
+            "Contact with allergic triggers (poison ivy, nickel, latex, cosmetics, fragrances)",
+            "Exposure to chemical irritants (harsh soaps, solvents, bleach)",
+            "Viral or bacterial systemic infections",
+            "Adverse drug reactions"
+        ],
+        "common_symptoms": [
+            "Redness, inflammation, and localized skin warmth",
+            "Itching, stinging, or burning sensation",
+            "Small bumps, hives, or fluid-filled blisters",
+            "Dry, scaly, or flaking skin patches"
+        ],
+        "treatment_suggestions": [
+            "Wash affected area with mild soap and water to remove offending irritants",
+            "Over-the-counter hydrocortisone cream to reduce localized inflammation",
+            "Calamine lotion or cool damp compresses to soothe itching",
+            "Oral antihistamines for allergic itching relief"
+        ],
+        "prevention_tips": [
+            "Identify and avoid contact with known allergens and chemical irritants",
+            "Wear protective gloves when handling household chemicals or gardening",
+            "Perform patch testing before using new cosmetics or skincare products",
+            "Use hypoallergenic and unscented skin products"
+        ],
+        "when_to_see_a_doctor": "Seek immediate emergency care if a rash spreads rapidly across the body, is accompanied by difficulty breathing, facial swelling, high fever, or blisters/sores in the eyes or mouth."
+    },
+    {
+        "disease_name": "Ringworm (Tinea Corporis / Dermatophytosis)",
+        "severity_estimate": "Mild to Moderate (Contagious fungal skin infection)",
+        "possible_causes": [
+            "Infection by dermatophyte fungi (e.g., Trichophyton, Microsporum)",
+            "Direct skin-to-skin contact with an infected person or animal (pets like cats/dogs)",
+            "Contact with contaminated objects, sports equipment, or moist surfaces (gym floors, pool decks)"
+        ],
+        "common_symptoms": [
+            "Circular, ring-shaped red rash with raised, slightly scaly borders and clear skin in center",
+            "Itching, irritation, and mild burning at the rash site",
+            "Expanding circular rings that may merge together"
+        ],
+        "treatment_suggestions": [
+            "Over-the-counter topical antifungal creams (e.g., clotrimazole, miconazole, terbinafine)",
+            "Prescription-strength topical or oral antifungal medications for widespread or stubborn cases"
+        ],
+        "prevention_tips": [
+            "Keep skin dry and clean, especially skin folds, groin, and feet",
+            "Avoid sharing personal items like towels, clothing, hairbrushes, or athletic gear",
+            "Wear footwear in public showers, locker rooms, and pool areas",
+            "Have pets evaluated by a veterinarian if they display patches of hair loss"
+        ],
+        "when_to_see_a_doctor": "See a doctor if the ringworm rash does not improve after 2 weeks of OTC antifungal treatment, spreads significantly, or becomes red, hot, and oozing."
+    },
+    {
+        "disease_name": "Rosacea",
+        "severity_estimate": "Mild to Moderate (Chronic facial vascular condition with periodic flushing)",
+        "possible_causes": [
+            "Vascular reactivity and abnormal facial blood vessel regulation",
+            "Immune system dysregulation and microscopic Demodex mite overgrowth",
+            "Genetic factors",
+            "Triggers: spicy foods, hot beverages, alcohol, extreme temperatures, sun, stress"
+        ],
+        "common_symptoms": [
+            "Persistent redness and flushing across central face (cheeks, nose, chin, forehead)",
+            "Visible broken blood vessels (telangiectasia)",
+            "Swollen red bumps and pus-filled pimples resembling acne",
+            "Burning, stinging sensation on facial skin",
+            "Eye irritation, redness, or swollen eyelids (ocular rosacea)"
+        ],
+        "treatment_suggestions": [
+            "Topical medications (brimonidine, azelaic acid, metronidazole, ivermectin)",
+            "Oral antibiotics (e.g., low-dose doxycycline) for anti-inflammatory action",
+            "Laser or intense pulsed light (IPL) therapy to reduce visible red vessels"
+        ],
+        "prevention_tips": [
+            "Apply broad-spectrum sunscreen (SPF 30+) daily",
+            "Identify and avoid individual dietary and environmental lifestyle triggers",
+            "Use gentle, non-abrasive skincare products without alcohol or harsh exfoliants",
+            "Protect face from cold wind with scarves or masks"
+        ],
+        "when_to_see_a_doctor": "Consult a dermatologist if persistent facial redness causes physical discomfort, emotional distress, or if eyes feel gritty, dry, or inflamed."
+    },
+    {
+        "disease_name": "Scabies",
+        "severity_estimate": "Moderate (Highly contagious parasitic infestation requiring prompt treatment)",
+        "possible_causes": [
+            "Infestation by microscopic human itch mites (*Sarcoptes scabiei var. hominis*)",
+            "Direct, prolonged skin-to-skin contact with an infected individual",
+            "Transmission through shared clothing, bedding, or towels (less common)"
+        ],
+        "common_symptoms": [
+            "Intense, debilitating itching, particularly severe at night",
+            "Thin, irregular burrow tracks made of tiny bumps or blisters on the skin",
+            "Common sites: finger webs, wrists, elbows, armpits, waist, buttocks, and knees",
+            "Secondary bacterial skin infections from vigorous scratching"
+        ],
+        "treatment_suggestions": [
+            "Prescription topical scabicide creams (e.g., 5% Permethrin cream applied neck down overnight)",
+            "Oral prescription medication (Ivermectin) for crusted scabies or large outbreaks",
+            "Antihistamines or mild topical steroids to relieve post-treatment itching"
+        ],
+        "prevention_tips": [
+            "Treat all household members and close physical contacts simultaneously",
+            "Wash all bedding, towels, and worn clothing in hot water and dry on high heat",
+            "Seal non-washable items in plastic bags for at least 3 to 7 days to starve mites"
+        ],
+        "when_to_see_a_doctor": "Consult a physician immediately if you suspect scabies for prescription scabicide treatment, or if treated skin shows signs of bacterial infection (pus, increasing redness)."
+    },
+    {
+        "disease_name": "Vitiligo",
+        "severity_estimate": "Mild to Moderate (Non-contagious autoimmune disorder causing depigmentation)",
+        "possible_causes": [
+            "Autoimmune destruction of melanocytes (pigment-producing skin cells)",
+            "Genetic factors and family history of autoimmune diseases",
+            "Oxidative stress, neurogenic factors, or severe skin trauma (sunburn/cuts)"
+        ],
+        "common_symptoms": [
+            "Patchy loss of skin color resulting in milky-white macules and patches",
+            "Premature whitening or graying of hair on scalp, eyelashes, eyebrows, or beard",
+            "Loss of color in tissues lining the inside of mouth and nose (mucous membranes)",
+            "Symmetrical distribution of white patches across both sides of the body"
+        ],
+        "treatment_suggestions": [
+            "Topical corticosteroids or topical calcineurin inhibitors (tacrolimus, pimecrolimus)",
+            "Targeted phototherapy (Narrowband UVB) to stimulate repigmentation",
+            "Oral JAK inhibitors or topical ruxolitinib as prescribed by a specialist",
+            "Depigmentation therapy (for extensive vitiligo) or cosmetic camouflage creams"
+        ],
+        "prevention_tips": [
+            "Vitiligo cannot be prevented; mitigate progression by avoiding skin injuries/friction",
+            "Apply broad-spectrum sunscreen diligently to depigmented patches to prevent severe sunburn",
+            "Minimize physical trauma to skin (cuts, scrapes, tight clothing)"
+        ],
+        "when_to_see_a_doctor": "See a dermatologist if you notice sudden white patches forming on skin or hair to confirm diagnosis and begin early repigmentation therapies."
+    },
+    {
+        "disease_name": "Acne (Acne Vulgaris)",
+        "severity_estimate": "Mild to Moderate (Very common inflammatory pilosebaceous disorder)",
+        "possible_causes": [
+            "Excessive sebum (oil) production driven by androgenic hormones",
+            "Hyperkeratinization leading to clogged hair follicles/pores",
+            "Overgrowth of *Cutibacterium acnes* bacteria within pores",
+            "Dietary factors, high stress levels, and friction/pressure on skin"
+        ],
+        "common_symptoms": [
+            "Comedones: open (blackheads) and closed (whiteheads)",
+            "Inflammatory papules (small red bumps) and pustules (pimples with pus)",
+            "Nodules and deep, painful fluid-filled cysts (cystic acne)",
+            "Post-inflammatory hyperpigmentation or permanent scarring"
+        ],
+        "treatment_suggestions": [
+            "Over-the-counter topical treatments: Salicylic acid, Benzoyl peroxide, or Adapalene gel",
+            "Prescription topical or oral antibiotics, topical retinoids (tretinoin, trifarotene)",
+            "Hormonal therapy (oral contraceptives, spironolactone) for females",
+            "Oral Isotretinoin for severe, recalcitrant, or scarring cystic acne"
+        ],
+        "prevention_tips": [
+            "Wash face twice daily with a non-comedogenic cleanser",
+            "Avoid picking, squeezing, or popping acne lesions to prevent scarring and infection",
+            "Choose oil-free and non-comedogenic skincare and makeup products",
+            "Shampoo oily hair regularly and keep hair away from the face"
+        ],
+        "when_to_see_a_doctor": "Consult a dermatologist if OTC products fail after 6 to 8 weeks, if acne produces deep painful cysts, or if lesions begin causing permanent scars or emotional distress."
+    },
+    {
+        "disease_name": "Cellulitis",
+        "severity_estimate": "High (Potentially serious deep bacterial skin infection requiring urgent medical attention)",
+        "possible_causes": [
+            "Bacterial invasion into deep dermis and subcutaneous tissues (commonly *Streptococcus* or *Staphylococcus*)",
+            "Entry points through cuts, puncture wounds, surgical sites, ulcers, athlete's foot, or animal bites",
+            "Venous insufficiency or lymphedema causing localized fluid accumulation"
+        ],
+        "common_symptoms": [
+            "Rapidly spreading red, swollen, warm, and tender skin area",
+            "Severe pain and tightness in affected limb/body area",
+            "Fever, chills, fatigue, and cold sweats",
+            "Red streaks radiating from the infection site or blistering"
+        ],
+        "treatment_suggestions": [
+            "Prompt course of oral antibiotics prescribed by a physician",
+            "Intravenous (IV) antibiotics in hospital settings for severe or rapidly spreading cases",
+            "Elevation of the affected limb to reduce swelling",
+            "Rest and pain management"
+        ],
+        "prevention_tips": [
+            "Clean all skin wounds, cuts, and scrapes immediately with soap and water and apply antibiotic ointment",
+            "Keep wounds clean and covered with sterile bandages",
+            "Treat underlying skin conditions like fungal athlete's foot promptly to maintain intact skin",
+            "Inspect feet daily if living with diabetes or poor peripheral circulation"
+        ],
+        "when_to_see_a_doctor": "Seek emergency medical care immediately if skin becomes rapidly red, swollen, hot, and painful, or if accompanied by high fever, red streaks, confusion, or dizziness."
+    },
+    {
+        "disease_name": "Dark Spots / Hyperpigmentation (Melasma, Post-Inflammatory, Solar Lentigines)",
+        "severity_estimate": "Mild (Cosmetic concern caused by excess melanin production)",
+        "possible_causes": [
+            "Overexposure to ultraviolet (UV) sunlight and visible light",
+            "Post-inflammatory hyperpigmentation (PIH) following acne, eczema, or skin trauma",
+            "Hormonal changes (pregnancy, birth control pills, hormone therapy in Melasma)",
+            "Natural skin aging (age spots / liver spots)"
+        ],
+        "common_symptoms": [
+            "Flat dark brown, tan, or grayish spots or patches on skin",
+            "Uneven skin tone and hyperpigmented areas on sun-exposed zones (face, hands, shoulders)",
+            "Symmetrical facial patches across forehead, cheeks, and upper lip"
+        ],
+        "treatment_suggestions": [
+            "Topical lightening agents: Hydroquinone, Azelaic acid, Vitamin C, Kojic acid, Niacinamide, or Tranexamic acid",
+            "Topical retinoids (tretinoin) to accelerate cell turnover",
+            "Professional chemical peels, microdermabrasion, or laser/IPL therapy under specialist supervision"
+        ],
+        "prevention_tips": [
+            "Wear broad-spectrum SPF 30+ sunscreen daily, year-round, reapplying every 2 hours outdoors",
+            "Wear protective hats and sun-protective clothing",
+            "Treat inflammatory skin conditions (like acne) early without picking or scratching lesions"
+        ],
+        "when_to_see_a_doctor": "Consult a dermatologist for targeted clinical treatments, or seek immediate evaluation if any dark spot changes shape, color, or border, bleeds, or grows rapidly (rule out melanoma)."
+    },
+    {
+        "disease_name": "Normal (Healthy Skin Cavity / Epidermis)",
+        "severity_estimate": "None (Healthy Baseline)",
+        "possible_causes": [
+            "N/A - Standard healthy skin structure with balanced hydration and intact barrier function"
+        ],
+        "common_symptoms": [
+            "Even skin texture and natural barrier integrity without active inflammation",
+            "Absence of unexplained lesions, severe itching, scaling, or purulent discharge",
+            "Comfortable, adequately hydrated, and supple skin tone"
+        ],
+        "treatment_suggestions": [
+            "No medical or corrective treatment required",
+            "Maintain consistent daily preventive skincare routine"
+        ],
+        "prevention_tips": [
+            "Cleanse gently daily with a mild cleanser",
+            "Apply daily broad-spectrum SPF 30+ sunscreen",
+            "Moisturize according to skin type (dry, normal, oily, combination)",
+            "Stay adequately hydrated and eat a balanced diet rich in vitamins and essential fatty acids"
+        ],
+        "when_to_see_a_doctor": "Schedule an annual routine skin check with a dermatologist, or seek medical advice if any new spots, moles, rashes, or skin changes develop."
+    },
+    {
+        "disease_name": "Skin Cancer (Melanoma, Basal Cell Carcinoma, Squamous Cell Carcinoma)",
+        "severity_estimate": "High to Critical (Malignant cellular growth requiring immediate medical diagnosis and treatment)",
+        "possible_causes": [
+            "DNA damage in skin cells caused by cumulative or severe blistering UV radiation (sunlight/tanning beds)",
+            "Fair skin tone, light hair, blue eyes, or tendency to burn easily",
+            "Family or personal history of skin cancer or high mole count",
+            "Immunosuppression or exposure to ionizing radiation/chemicals"
+        ],
+        "common_symptoms": [
+            "ABCDEs of Melanoma: Asymmetry, Border irregularity, Color variation, Diameter >6mm, Evolving shape/size",
+            "Pearly, flesh-colored, or waxy bump (Basal Cell Carcinoma)",
+            "Firm red nodule or flat scaly, crusted lesion (Squamous Cell Carcinoma)",
+            "Sore that does not heal, bleeds spontaneously, or crusts repeatedly"
+        ],
+        "treatment_suggestions": [
+            "Surgical excision, Mohs micrographic surgery, or curettage and electrodessication",
+            "Immunotherapy, targeted therapy, chemotherapy, or radiation therapy for advanced/metastatic disease"
+        ],
+        "prevention_tips": [
+            "Avoid tanning beds and mid-day sun exposure (10 AM to 4 PM)",
+            "Use broad-spectrum SPF 30+ water-resistant sunscreen daily",
+            "Wear UV-blocking clothing, wide-brimmed hats, and UV-filtering sunglasses",
+            "Perform monthly self-examinations of skin from head to toe"
+        ],
+        "when_to_see_a_doctor": "See a dermatologist immediately if you notice a new mole, an evolving spot, a sore that fails to heal within 4 weeks, or any lesion following the ABCDE criteria."
+    },
+    {
+        "disease_name": "Urticaria / Hives",
+        "severity_estimate": "Mild to High (Vascular reaction that can be acute or chronic, potentially linked to anaphylaxis)",
+        "possible_causes": [
+            "Allergic reaction to foods (nuts, shellfish, eggs), medications (antibiotics, NSAIDs), or insect stings",
+            "Physical triggers: pressure, heat, cold, exercise, or vibration (physical urticaria)",
+            "Viral or bacterial infections",
+            "Emotional stress"
+        ],
+        "common_symptoms": [
+            "Raised, intensely itchy red or skin-colored welts (wheals) with clear borders",
+            "Welts that appear rapidly, change shape, fade, and reappear elsewhere in hours",
+            "Blanching (center turns white when pressed)",
+            "Swelling under the skin (angioedema), often around eyelids or lips"
+        ],
+        "treatment_suggestions": [
+            "Non-drowsy second-generation oral H1 antihistamines (e.g., cetirizine, loratadine, fexofenadine)",
+            "Short courses of oral corticosteroids for severe acute episodes",
+            "Injectable epinephrine (EpiPen) if hives are part of a severe allergic reaction/anaphylaxis"
+        ],
+        "prevention_tips": [
+            "Identify and avoid known food, drug, or environmental allergens",
+            "Avoid tight-fitting clothing that creates high friction or pressure on skin",
+            "Apply cool compresses and avoid hot baths during flare-ups"
+        ],
+        "when_to_see_a_doctor": "Seek EMERGENCY medical care immediately if hives occur with difficulty breathing, throat tightness, tongue/lip swelling, or dizziness. Consult a doctor if hives persist beyond 6 weeks (chronic urticaria)."
+    },
+    {
+        "disease_name": "Wrinkles (Rhytids / Skin Aging)",
+        "severity_estimate": "Mild (Natural physiological aging process of skin)",
+        "possible_causes": [
+            "Intrinsic natural aging (gradual reduction in collagen, elastin, and hyaluronic acid synthesis)",
+            "Extrinsic photoaging (UV radiation breakdown of dermal structural matrix)",
+            "Repetitive facial muscular expressions (dynamic lines)",
+            "Cigarette smoking and environmental pollution exposure",
+            "Dehydration and sleep position friction"
+        ],
+        "common_symptoms": [
+            "Fine lines around eyes (crow's feet), mouth, and forehead",
+            "Deeper furrows and folds (nasolabial folds, marionette lines)",
+            "Loss of skin firmness, elasticity, and volume",
+            "Sagging skin along jawline and neck"
+        ],
+        "treatment_suggestions": [
+            "Topical retinoids (tretinoin, retinol) to stimulate collagen production",
+            "Hydrating agents like hyaluronic acid serums and peptide creams",
+            "Cosmetic procedures: Neuromodulators (Botox), dermal fillers, microneedling, laser resurfacing, or chemical peels"
+        ],
+        "prevention_tips": [
+            "Apply broad-spectrum SPF 30+ sunscreen every day, regardless of weather",
+            "Maintain a healthy skincare routine with antioxidants (Vitamin C) and rich moisturizers",
+            "Avoid smoking and excessive alcohol consumption",
+            "Stay well-hydrated and wear sunglasses to prevent squinting"
+        ],
+        "when_to_see_a_doctor": "Consult a board-certified dermatologist or cosmetic specialist if you desire safe, professional advice on anti-aging regimens, topical prescription retinoids, or minimally invasive cosmetic procedures."
+    }
+]
