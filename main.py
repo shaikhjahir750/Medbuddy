@@ -78,7 +78,7 @@ CUSTOM_OBJECTS = {
     "Embedding": CompatEmbedding,
 }
 
-BASE_MODEL_DIR = r"c:\Medbuddy\models"
+BASE_MODEL_DIR = os.environ.get("MODEL_DIR", os.path.join(os.path.dirname(__file__), "models"))
 
 # A. Eye Disease Model (PyTorch)
 EYE_CLASSES = ["Cataract", "Normal_Eye", "Pterygium"]
