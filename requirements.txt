@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+tensorflow==2.15.0
+torch
+torchvision
+Pillow
+numpy
+joblib
+python-multipart
+scikit-learn
+httpx
